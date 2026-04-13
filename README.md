@@ -5,8 +5,8 @@ Bem-vindo ao repositório central de materiais didáticos. Aqui você encontrar�
 ## 📂 Material de Apoio - Curso Técnico
 Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, assets e bibliografia, utilize o botão abaixo:
 
-### Introdução à Animação e Fundamentos do Cinema
-[![Introdução à Animação e Fundamentos do Cinema](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Huvu4ppxTALCIV_HiOIonTGbArb72boi?usp=drive_link)
+### Arquitetura de Hardware e Software
+[![Arquitetura de Hardware e Software](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1AhuFXXyLJahWWAO1u2kDBEgKh51VzJTo?usp=sharing)
 
 ### Lógica de Programação
 [![Lógica de Programação](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1xE735Ymdzge-fyKLLmdO1twBoSQK75pw?usp=sharing)
