@@ -11,6 +11,9 @@ Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, asset
 ### Lógica de Programação
 [![Lógica de Programação](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1xE735Ymdzge-fyKLLmdO1twBoSQK75pw?usp=sharing)
 
+### Fundamentos de Jogos Digitais
+[![Lógica de Programação](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/drive/folders/1xE735Ymdzge-fyKLLmdO1twBoSQK75pw?usp=sharing](https://drive.google.com/drive/folders/14vDaDBPn0RgAhZeMbmkMRwlme5lh4gd2?usp=sharing])
+
 # Computação Gráfica
 ## 📂 Material de Apoio - Curso Técnico
 
