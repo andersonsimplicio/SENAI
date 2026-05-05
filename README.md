@@ -19,9 +19,15 @@ Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, asset
 ## 📂 Material de Apoio - Curso Técnico
 
 Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, assets e bibliografia, utilize o botão abaixo:
-### Introdução à Animação e Fundamentos do Cinema
+### 01-Introdução à Animação e Fundamentos do Cinema
 [![Introdução à Animação e Fundamentos do Cinema](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Huvu4ppxTALCIV_HiOIonTGbArb72boi?usp=drive_link)
 
-### Fundamentos do Desenho
+### 02-Planejamento e Gerenciamento de Arquivos
+[![Fundamentos do Desenho](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1vzEiF_mB-EqDz62ARrsgucjTMlhnV4LN?usp=drive_link)
+
+### 03-Fundamentos do Desenho
+[![Fundamentos do Desenho](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1rRaPN01T9Cg93FpODvT8KZNEaocp73Me?usp=drive_link)
+
+### 04-Desenvolvimento de Animação 2D
 [![Fundamentos do Desenho](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1rRaPN01T9Cg93FpODvT8KZNEaocp73Me?usp=drive_link)
 
