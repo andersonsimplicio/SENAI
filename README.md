@@ -14,7 +14,7 @@ Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, asset
 ### Fundamentos de Jogos Digitais
 [![Lógica de Programação](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/14vDaDBPn0RgAhZeMbmkMRwlme5lh4gd2?usp=drive_link)
 
-### Fundamentos de Jogos Digitais
+### Fundamentos de UI e UX Design
 [![Fundamentos de UI / UX Design](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1LGkBO8PfWI8eiBb2srIu7poBjIClky8f?usp=drive_link)
 
 # Computação Gráfica
