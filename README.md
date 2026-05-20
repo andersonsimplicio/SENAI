@@ -1,6 +1,7 @@
 # 🎓 Cursos Técnicos: Jogos Digitais & 
 Bem-vindo ao repositório central de materiais didáticos. Aqui você encontrará os slides das aulas, roteiros de atividades práticas e arquivos de apoio utilizados nas disciplinas dos cursos técnicos.
-
+### Pesquisa
+https://docs.google.com/forms/d/1FnHGXgzPh8h205fgFLpIuQwvg7toLSttgpVns0-XGm0/viewform?edit_requested=true
 # Jogos Digitais
 ## 📂 Material de Apoio - Curso Técnico
 Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, assets e bibliografia, utilize o botão abaixo:
