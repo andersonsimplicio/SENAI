@@ -18,7 +18,7 @@ Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, asset
 [![Fundamentos de UI / UX Design](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1LGkBO8PfWI8eiBb2srIu7poBjIClky8f?usp=drive_link)
 
 ### Fundamentos do Design de Elementos Gráficos
-[![Fundamentos do Design de Elementos Gráficos](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1LGkBO8PfWI8eiBb2srIu7poBjIClky8f?usp=drive_link)
+[![Fundamentos do Design de Elementos Gráficos](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Se0rT-JTLICl1fs_UPXMJYbSTzmusEN6?usp=drive_link)
 
 # Computação Gráfica
 ## 📂 Material de Apoio - Curso Técnico
