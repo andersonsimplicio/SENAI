@@ -21,7 +21,10 @@ Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, asset
 [![Fundamentos do Design de Elementos Gráficos](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Se0rT-JTLICl1fs_UPXMJYbSTzmusEN6?usp=drive_link)
 
 ### Versionamento e Colaboração
-[![Versionamento e Colaboração](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/13OANxlR_qV0X3XdZCiH_gw4kyxT_LqHT?usp=sharing)
+[![Versionamento e Colaboração](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/13OANxlR_qV0X3XdZCiH_gw4kyxT_LqHT?usp=sharing)
+
+### Fundamentos de Programação de Jogos Digitais
+[![Fundamentos de Programação de Jogos Digitais](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/13OANxlR_qV0X3XdZCiH_gw4kyxT_LqHT?usp=sharing)
 
 # Computação Gráfica
 ## 📂 Material de Apoio - Curso Técnico
