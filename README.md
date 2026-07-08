@@ -24,7 +24,7 @@ Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, asset
 [![Versionamento e Colaboração](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/13OANxlR_qV0X3XdZCiH_gw4kyxT_LqHT?usp=sharing)
 
 ### Fundamentos de Programação de Jogos Digitais
-[![Fundamentos de Programação de Jogos Digitais](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/13OANxlR_qV0X3XdZCiH_gw4kyxT_LqHT?usp=sharing)
+[![Fundamentos de Programação de Jogos Digitais](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1MAHtn3t5hQdlA3GoLlqndTIusnfB1wiU?usp=drive_link)
 
 # Computação Gráfica
 ## 📂 Material de Apoio - Curso Técnico
