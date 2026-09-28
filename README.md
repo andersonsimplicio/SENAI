@@ -43,3 +43,7 @@ Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, asset
 
 ### 05- Elementos para Animação 3D
 [![Elementos para Animação 3D](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1mK_QS98LpZTYdTewOQR96QdtOf1MRBRZ?usp=sharing)
+
+
+### 06- Desenvolvimento de Animação 3D
+[![Desenvolvimento de Animação 3D](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1UOnJrCblpL8Znx7sbFOebB8TLZGHNCgg?usp=drive_link)
