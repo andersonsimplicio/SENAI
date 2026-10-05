@@ -26,6 +26,9 @@ Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, asset
 ### Fundamentos de Programação de Jogos Digitais
 [![Fundamentos de Programação de Jogos Digitais](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1MAHtn3t5hQdlA3GoLlqndTIusnfB1wiU?usp=drive_link)
 
+### Planejamento e Produção de Elementos Multimídia de Jogos Digitais
+[![Fundamentos de Programação de Jogos Digitais](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1D1N51nOZOYC2QYwCkNzv5W9L00sfVthD?usp=sharing)
+
 # Computação Gráfica
 ## 📂 Material de Apoio - Curso Técnico
 
