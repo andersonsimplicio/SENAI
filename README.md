@@ -50,3 +50,6 @@ Bem-vindo ao repositório da disciplina. Para acessar os arquivos de aula, asset
 
 ### 06- Desenvolvimento de Animação 3D
 [![Desenvolvimento de Animação 3D](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1UOnJrCblpL8Znx7sbFOebB8TLZGHNCgg?usp=drive_link)
+
+### 07- Composição Digital
+[![Composição Digital](https://img.shields.io/badge/Acessar%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/18B4koTreqsT9iSNnFyNygxvgyKST0ski?usp=drive_link)
